@@ -1,0 +1,6 @@
+{
+  "name": "Loveyt",
+  "tagline": "201604",
+  "body": "/**\r\n* We are both Fudan SSers and programmers,\r\n* so I write some code to celebrate our 1st anniversary.\r\n*/\r\nBoy i = new Boy(\"hackerzhou\");\r\nGirl u = new Girl(\"MaryNee\");\r\n// Nov 2, 2010, I told you I love you. \r\ni.love(u);\r\n// Luckily, you accepted and became my girlfriend eversince.\r\nu.accepted();\r\n// Since then, I miss u every day.\r\ni.miss(u);\r\n// And take care of u and our love.\r\ni.takeCareOf(u);\r\n// You say that you won't be so easy to marry me.\r\n// So I keep waiting and I have confidence that you will.\r\nboolean isHesitate = true;\r\nwhile (isHesitate) {\r\ni.waitFor(u);\r\n// I think it is an important decision\r\n// and you should think it over.\r\nisHesitate = u.thinkOver();\r\n}\r\n// After a romantic wedding, we will live happily ever after.\r\ni.marry(u);\r\ni.liveHappilyWith(u);\r\nMinyue, I have fallen in love with you for\r\n\r\nLove u forever and ever.\r\n- hackerzhou\r\nInspired by FlowerPower project.\r\nCopyright © 2011 hackerzhou.me 2009-2011 \r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
